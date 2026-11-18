@@ -10,6 +10,8 @@ Chapters currently published:
 4. Homogeneous Transformation
 5. Forward Position Kinematics
 6. Velocity Kinematics (the Jacobian)
+7. Inverse Position Kinematics
+8. Trajectory Generation
 
 More chapters are in progress and will be added as they're finished.
 
