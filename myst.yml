@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 6a915dd6-a5b1-4efa-8b13-d29b1e47f3cc
-  title: "Simulate, Build, Move: A Hands-On Introduction to Robotics"
+  title: "Model, Simulate, Move: A Hands-On Introduction to Robotics"
   description: An online, interactive textbook blending robotics theory with numerical implementation, simulation, and hardware.
   # keywords: []
   # authors: []
@@ -32,4 +32,4 @@ project:
 
 site:
   template: book-theme
-  title: "Simulate, Build, Move: A Hands-On Introduction to Robotics"
+  title: "Model, Simulate, Move: A Hands-On Introduction to Robotics"

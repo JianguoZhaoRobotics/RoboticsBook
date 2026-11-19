@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+title: "Model, Simulate, Move: A Hands-On Introduction to Robotics"
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Jianguo
+    affiliation: "Department of Mechanical Engineering, Colorado State University"
+    email: Jianguo.Zhao@colostate.edu
+url: "https://jianguozhaorobotics.github.io/RoboticsBook/"
+repository-code: "https://github.com/JianguoZhaoRobotics/RoboticsBook"
+license: MIT
+preferred-citation:
+  type: book
+  title: "Model, Simulate, Move: A Hands-On Introduction to Robotics"
+  authors:
+    - family-names: Zhao
+      given-names: Jianguo
+      affiliation: "Department of Mechanical Engineering, Colorado State University"
+  year: 2026
+  url: "https://jianguozhaorobotics.github.io/RoboticsBook/"
+  notes: "Online interactive book"
