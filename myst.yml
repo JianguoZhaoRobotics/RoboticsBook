@@ -2,11 +2,11 @@
 version: 1
 project:
   id: 6a915dd6-a5b1-4efa-8b13-d29b1e47f3cc
-  title: MECH 416 Introduction to Robotic Manipulators
+  title: "Simulate, Build, Move: A Hands-On Introduction to Robotics"
   description: An online, interactive textbook blending robotics theory with numerical implementation, simulation, and hardware.
   # keywords: []
   # authors: []
-  github: https://github.com/JianguoZhaoRobotics/RoboticManipulators
+  github: https://github.com/JianguoZhaoRobotics/RoboticsBook
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
   toc:
@@ -32,4 +32,4 @@ project:
 
 site:
   template: book-theme
-  title: MECH 416 Introduction to Robotic Manipulators
+  title: "Simulate, Build, Move: A Hands-On Introduction to Robotics"
